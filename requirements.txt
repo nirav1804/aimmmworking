@@ -1,0 +1,6 @@
+streamlit
+meridien
+pandas
+scikit-learn
+matplotlib
+plotly
